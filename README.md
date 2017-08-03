@@ -37,3 +37,5 @@ Unfortunately, I do not remember how `attack` relates to `windowsize`. Default i
 ## Examples, tests
 
 Run test.sh, which creates a sequence of test images and runs the script.
+
+I used this for an art project: a movie created from [captured surveillance video](https://github.com/bikubi/webcamlurk).
